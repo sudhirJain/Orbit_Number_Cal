@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------
 
-Modifications by : Sudhir Jain
+Author           : Sudhir Jain
 Date             : Jan 12, 2015
 Descripition:    : New Class NPP_Orbit has been added in the code for retrieving Orbit Numbers
                    for NPP data and the data is packaged.The script runs on python2.7 as 
