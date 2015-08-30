@@ -1,12 +1,11 @@
 #-------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------
 
-Author           : Sudhir Jain
-Date             : Jan 12, 2015
-Descripition:    : New Class NPP_Orbit has been added in the code for retrieving Orbit Numbers
-                   for NPP data and the data is packaged.The script runs on python2.7 as 
-                   pyorbital module is compatable with python2.7.  Tracking Satellite can
-                   changed and its Orbit Number can be retrieved.
+#Author           : Sudhir Jain
+#Date             : Jan 12, 2015
+#Descripition:    : The Following Code runs on python2.7 using pyorbital module is 
+#                   compatable with python2.7.  Tracking Satellite can be chaned to obtain
+#                   Orbit Number.
 
 #-------------------------------------------------------------------------------------------
 
